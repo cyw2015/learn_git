@@ -1,5 +1,5 @@
 Git is a version control system.
-Git is free software.
+Git is free software distributed under the GPL.
 
 初始化Git仓库 git init
 添加文件到Git仓库 
